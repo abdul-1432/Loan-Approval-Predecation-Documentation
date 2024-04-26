@@ -1,7 +1,3 @@
-Creating a comprehensive documentation for a "Loan Approval Prediction" project involves detailing the project's purpose, methodology, implementation, and usage. Here's a sample README document structured for documentation purposes:
-
----
-
 # Loan Approval Prediction Documentation
 
 ## Overview
@@ -137,6 +133,3 @@ Contributions to this project are welcome. If you have suggestions or improvemen
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to adapt and expand this documentation to suit your specific project requirements and implementation details. This README.md provides a structured guide for users and contributors to understand, use, and contribute to the Loan Approval Prediction project.
